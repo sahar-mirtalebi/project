@@ -1,2 +1,4 @@
-**/.DS_Store
-.DS_Store
+node_modules/
+*.txt
+.DS_store
+css/.DS_store
